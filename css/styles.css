@@ -19,7 +19,7 @@ img {
 
 .intro {
   padding-left: 10px;
-  margin-top: 40px;
+  margin-top: 20px;
   margin-right: 40px;
   margin-left: 290px;
   margin-bottom: 20px;
@@ -46,4 +46,21 @@ img {
 
 .panel-body {
   opacity: 5%;
+}
+
+footer {
+  text-align: center;
+}
+
+.fa {
+  padding: 10px;
+  font-size: 50px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+footer .fa {
+  font-size: 30px;
 }
