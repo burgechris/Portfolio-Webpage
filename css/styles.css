@@ -9,19 +9,23 @@ h1 {
 img {
   float: left;
   display: block;
-  margin-left: auto;
-  margin-right: auto;
+  margin-left: 30px;
+  margin-right: 30px;
+  margin-top: 10px;
   width: 20%;
-  padding-right: 40px;
-  padding-left: 20px;
-  border-radius: 0px;
+  border-radius: 30px;
 }
 
 .intro {
   padding-left: 10px;
+  margin-top: 40px;
 }
 
 .jumbotron {
   background-color: #5dacbf;
   padding: 20px;
+}
+
+.title {
+  color: #30637d;
 }
