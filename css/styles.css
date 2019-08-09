@@ -21,12 +21,18 @@ img {
   padding-left: 10px;
   margin-top: 40px;
   margin-right: 40px;
-  padding-bottom: 20px;
+  margin-left: 290px;
+  margin-bottom: 20px;
+  padding-bottom: 5px;
+  border: 2px solid #a5d6a5;
+  border-radius: 5px;
 }
 
 .jumbotron {
   background-color: #5dacbf;
+  background-color: #337ab7;
   padding: 20px;
+  color: #7ab1ef;
 }
 
 .title {
