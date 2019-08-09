@@ -1,5 +1,6 @@
 body {
   background-color: #e2ffe2;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 h1 {
@@ -19,6 +20,8 @@ img {
 .intro {
   padding-left: 10px;
   margin-top: 40px;
+  margin-right: 40px;
+  padding-bottom: 20px;
 }
 
 .jumbotron {
