@@ -12,4 +12,15 @@ img {
   margin-left: auto;
   margin-right: auto;
   width: 20%;
+  padding-right: 40px;
+  border-radius: 0px;
+}
+
+.intro {
+  padding-left: 10px;
+}
+
+.jumbotron {
+  background-color: #a6a6dc;
+  padding: 20px;
 }
