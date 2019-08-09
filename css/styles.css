@@ -38,3 +38,12 @@ img {
 .title {
   color: #30637d;
 }
+
+.intro p {
+  font-family: serif;
+  font-size: 13px;
+}
+
+.panel-body {
+  opacity: 5%;
+}
