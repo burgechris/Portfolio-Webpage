@@ -1,5 +1,5 @@
 body {
-  background-color: #bce0bc;
+  background-color: #e2ffe2;
 }
 
 h1 {
@@ -13,6 +13,7 @@ img {
   margin-right: auto;
   width: 20%;
   padding-right: 40px;
+  padding-left: 20px;
   border-radius: 0px;
 }
 
@@ -21,6 +22,6 @@ img {
 }
 
 .jumbotron {
-  background-color: #a6a6dc;
+  background-color: #5dacbf;
   padding: 20px;
 }
